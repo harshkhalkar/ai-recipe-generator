@@ -67,3 +67,6 @@ export default tseslint.config([
   },
 ])
 ```
+# Architecture Diagram
+
+[Diagram](ArchitectureDiagram)
